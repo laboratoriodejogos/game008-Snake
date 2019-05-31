@@ -9,5 +9,6 @@ Alunos: </br>
     GIOVANNI DE ALMEIDA COBUCCI - RA:3017100027 </br>
     MATEUS OCANA SALMEN - RA:3019102521 </br>
     VINICIUS DE SOUZA SILVA - RA: 3018109208 </br>
-    
-    publicado em: https://laboratoriodejogos.github.io/game008-Snake/ </br>
+ 
+Publicado em:</br>
+https://laboratoriodejogos.github.io/game008-Snake/
