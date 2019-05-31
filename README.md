@@ -3,10 +3,11 @@ Game Snake criado em P5js
 
 Uninove - Vila Prudente (Manhã) - Jogos Digitais <br>
 
-Alunos: <br>
-    Adriano 
-    Heitor Ferreira da Mota RA:3017110285
-    Mateus Ocaña Salmen RA:3019102521
+Alunos: </br>
+    ADRIANO MOREIRA IWAZAKI - RA: 3017101557 </br>
+    HEITOR FERREIRA DA MOTA - RA:3017110285 </br>
+    GIOVANNI DE ALMEIDA COBUCCI - RA:3017100027 </br>
+    MATEUS OCANA SALMEN - RA:3019102521 </br>
+    VINICIUS DE SOUZA SILVA - RA: 3018109208 </br>
     
-    <br> publicado em: https://laboratoriodejogos.github.io/games008-Snake/
-    <br>
+    publicado em: https://laboratoriodejogos.github.io/game008-Snake/</br>
