@@ -10,4 +10,4 @@ Alunos: </br>
     MATEUS OCANA SALMEN - RA:3019102521 </br>
     VINICIUS DE SOUZA SILVA - RA: 3018109208 </br>
     
-    publicado em: https://laboratoriodejogos.github.io/game008-Snake/</br>
+    publicado em: https://laboratoriodejogos.github.io/game008-Snake/ </br>
